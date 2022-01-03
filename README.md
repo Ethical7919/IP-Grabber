@@ -6,4 +6,4 @@ A simple IP-Grabber made with Python
 [!] Please install these modules
     - "pip3 install requests"
 
-Anyways, if you want me help just add me on Discord --> Ethical#2021
+Anyways, if you want me help just add me on Discord --> Nick Gur#7919
